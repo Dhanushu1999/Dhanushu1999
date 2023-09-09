@@ -12,10 +12,12 @@ I'm a passionate engineer with a keen interest in computer networks, DevOps, and
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Dhanushu1999&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhanushu1999&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Dhanushu1999&theme=discord&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Dhanushu1999&icon=2&color=11)](https://visitcount.itsvg.in)
+
